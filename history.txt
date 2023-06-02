@@ -1,0 +1,61 @@
+    1  cd desktop
+    2  mkdir planets
+    3  cd planets
+    4  git innit
+    5  git init
+    6  nano mars.txt
+    7  git remove add origin https://github.com/amakama95/Planets.git
+    8  push -u origin master
+    9  git push -u origin main
+   10  git push -u origin master
+   11  git init
+   12  git add README.md
+   13  ls 
+   14  nano README.md
+   15  git README.md
+   16  git add README.md
+   17  git README.md
+   18  git commit -m 'first name'
+   19  git commit -m "Gideon"
+   20  git commit -m "planets"
+   21  git commit -m "amakama95"
+   22  git commit -m "first commit"
+   23  git commit -m "mars is a planet"
+   24  git remote add origin https://github.com/amakama95/Planets.git
+   25  git branch -M main
+   26  git push -u origin main
+   27  git branch
+   28  gits status
+   29  git status
+   30  git push -u origin main
+   31  git remote -v
+   32  exit
+   33  cd planets
+   34  ls
+   35  cd desktop
+   36  git remote https://github.com/amakama95/Planets.git
+   37  git remote add -t main https://github.com/amakama95/Planets.git
+   38  git remote add main https://github.com/amakama95/Planets.git
+   39  git push origin main
+   40  git log --oneline --all
+   41  nano venus.txt
+   42  git remote -v
+   43  git remote rename main origin
+   44  git remote -v
+   45  git push origin
+   46  git push main
+   47  git push --set-upstream origin main
+   48  git branch -M main
+   49  git push -u origin main
+   50  git push origin main
+   51  git status
+   52  ls
+   53  cd desktop
+   54  cd planets
+   55  git status
+   56  git remote add remote https://github.com/amakama95/Planets.git
+   57  git status
+   58  git push origin main
+   59  git push origin main
+   60  git --cached
+   61  history >history.txt
